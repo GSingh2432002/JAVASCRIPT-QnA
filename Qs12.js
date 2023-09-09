@@ -13,4 +13,4 @@ function getSquare(number) {
   const result = getSquare(5);
   
   // Log the result to the console
-  console.log(result); // Output: 25
+  console.log(result); 
